@@ -1,0 +1,10 @@
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\bin\Debug\TSPWithPlotter.exe.config
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\bin\Debug\TSPWithPlotter.exe
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\bin\Debug\TSPWithPlotter.pdb
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.csprojResolveAssemblyReference.cache
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.Form1.resources
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.Properties.Resources.resources
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.csproj.GenerateResource.Cache
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.csproj.CoreCompileInputs.cache
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.exe
+C:\Users\darkm\Documents\Visual Studio 2017\Projects\TSPWithPlotter\TSPWithPlotter\obj\Debug\TSPWithPlotter.pdb
